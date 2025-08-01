@@ -1,6 +1,17 @@
 [
-  { "name": "GitHub", "url": "https://github.com" },
+  { "name": "Google Chrome Testing", "url": "https://googlechromelabs.github.io/chrome-for-testing", "description": "A resource for testing web applications in Chrome." },
+  { "name": "W3Schools", "url": "https://www.w3schools.com" },
+  { "name": "CSS-Tricks", "url": "https://css-tricks.com" },
   { "name": "MDN Web Docs", "url": "https://developer.mozilla.org" },
-  { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
-  { "name": "Google Chrome Testing", "url": "https://googlechromelabs.github.io/chrome-for-testing" }
+  { "name": "FreeCodeCamp", "url": "https://www.freecodecamp.org" },
+  { "name": "Codecademy", "url": "https://www.codecademy.com" },
+  { "name": "Frontend Mentor", "url": "https://www.frontendmentor.io" },
+  { "name": "Dev.to", "url": "https://dev.to" },
+  { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com" },
+  { "name": "CSS Zen Garden", "url": "http://www.csszengarden.com" },
+  { "name": "A List Apart", "url": "https://alistapart.com" },
+  { "name": "Web.dev", "url": "https://web.dev" },
+  { "name": "CSS Tricks Almanac", "url": "https://css-tricks.com/almanac/" },
+  { "name": "MDN Web Docs", "url": "https://developer.mozilla.org" },
+  { "name": "Stack Overflow", "url": "https://stackoverflow.com" }
 ]
