@@ -1,5 +1,5 @@
 [
-  { "name": "Google Chrome Testing", "url": "https://googlechromelabs.github.io/chrome-for-testing", "description": "A resource for testing web applications in Chrome." },
+  { "name": "Google Chrome Testing", "url": "https://googlechromelabs.github.io/chrome-for-testing"},
   { "name": "W3Schools", "url": "https://www.w3schools.com" },
   { "name": "CSS-Tricks", "url": "https://css-tricks.com" },
   { "name": "MDN Web Docs", "url": "https://developer.mozilla.org" },
