@@ -13,5 +13,6 @@
   { "name": "Web.dev", "url": "https://web.dev" },
   { "name": "CSS Tricks Almanac", "url": "https://css-tricks.com/almanac/" },
   { "name": "MDN Web Docs", "url": "https://developer.mozilla.org" },
+  { "name": "Download Aadhar", "url": "https://myaadhaar.uidai.gov.in/genricDownloadAadhaar/en" },
   { "name": "Stack Overflow", "url": "https://stackoverflow.com" }
 ]
